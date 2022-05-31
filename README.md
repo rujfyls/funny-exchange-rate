@@ -21,6 +21,11 @@ GET method:  `/exchanger` <br>
 **Результат**
 <br>
 
+![result](https://user-images.githubusercontent.com/86868993/171135330-ba394d8a-dd02-4ce0-b276-686c6d768542.png)
+
+или
+
+![result2](https://user-images.githubusercontent.com/86868993/171135664-b01f1f47-db7a-4ace-ae09-eb47d5af0293.png)
 
 
 --------------------------------------------------------
