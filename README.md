@@ -8,8 +8,10 @@ __________________________________________________
 • если ниже - отсюда https://giphy.com/search/broke </h5>
 Данный сервис работает на порту: 8080
 <br>
-Его можно протестировать загрузив docker image: <h6> docker pull rujfyls/exchange-rate:latest </h6>
-Запуск: <h6> docker run -ti --rm -p 8080:8080 rujfyls/exchange-rate:latest </h6>
+Его можно протестировать загрузив docker image: 
+<h6> docker pull rujfyls/exchange-rate:latest </h6>
+Запуск:
+<h6> docker run -ti --rm -p 8080:8080 rujfyls/exchange-rate:latest </h6>
 
 
 ---------------------------------------------------
