@@ -1,0 +1,14 @@
+exchange-rate:
+  appId: f6dbb687eedd479491b56236516a3128
+  base: USD
+  symbols: RUB
+  url:
+    base: https://openexchangerates.org/api
+    latest: /latest.json
+    yesterday: /historical/{date}.json
+
+giphy:
+  url: https://api.giphy.com/v1/gifs/search
+  apiKey: OoXkhN5NkWdIlysPcADVfdrucP1IOp3W
+
+
